@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+}
+.head{
+    background-image: url('');
+    background: #FAFAFA;
+    width: 1440px;
+    height: 669px;
+    margin: 120px 50px 0px 150px;
+}
+.heading-three{
+    color: #121212;
+    font-size: 65px;
+    font-weight: 700;
+    width: 524px;
+    margin-bottom: 20px;
+}
+.first-para{
+    color: #707070;
+    font-size: 18px;
+}
+.btn-family{
+    margin-top: 30px;
+}
+.btn{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FF5959;
+    width: 160px;
+    padding: 16px 12px;
+    border: none;
+}
